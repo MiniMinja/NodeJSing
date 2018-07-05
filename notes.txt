@@ -1,0 +1,11 @@
+Modules in Node.js
+
+1. Express Framework
+2. Socket.io
+3. Jade
+4. MongoDB
+5. Restify
+6. Bluebird
+
+To use these modules, you need to install this by node package manager
+npm install express
